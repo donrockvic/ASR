@@ -1,9 +1,5 @@
 
-# 
-# Breaking down the word can be done by looking  
-# at the pause in the waveform, but to save time 
-# i am using pydub
-# 
+
 
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
