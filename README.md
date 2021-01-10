@@ -10,6 +10,7 @@ Dataset Used: speech_commands
 [Data Page](https://www.tensorflow.org/datasets/catalog/speech_commands)
 [Data download link](http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz)
 
+After converting the data to numpy, i sored them on [Drive](https://drive.google.com/drive/folders/1q0JfWZ4eUmAX-luQ44tU9lppXdkiJQfw?usp=sharing).
 
 ## Project Description
 * [ASR_DATA.ipynb]: Notebook to convert Audion data from wav file to numpy array and visualization.
